@@ -100,6 +100,3 @@ An advanced, real-time AI assistant that "sees" your screen and "hears" your voi
 > The first run may take some time as the models (Qwen2-VL and Whisper) are downloaded to your local cache.
 
 ---
-
-## 📄 License
-MIT License - Created for innovative vision-voice interactions.
