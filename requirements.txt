@@ -6,3 +6,8 @@ pillow
 mss
 pyautogui
 customtkinter
+openai-whisper
+sounddevice
+numpy
+scipy
+pynput
